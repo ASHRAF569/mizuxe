@@ -1,0 +1,90 @@
+.navbar{
+    box-shadow:2px 2px 5px #fb5200;
+    
+}
+.navbar .nav-item{
+    padding:10px;
+}
+#navbarNav ul li a{
+    font-size:20px;
+}
+#home-head-section{
+    background-image:url(../img/mountains.jpg);
+    background-position:center top;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#home-head-section h1{
+    font-size: 100px;
+    margin-top: 50px;
+}
+.bgColorPart{
+   background:rgba(69, 160, 160, 0.664);
+}
+#box-section .card-body:hover{
+    background:#252525;
+    color:#fff;
+    transition:0.6s;
+
+}
+#box-section .activeBox{
+    background: #252525;
+    color:#fff;
+}
+#book-section{
+    background:#eeeeee;
+}
+#authots img{
+    margin-top:-60px;
+}
+#authots .social i{
+    font-size: 25px;
+    margin-left: 10px;
+   
+    color:#000;
+    border-radius: 100%;
+    padding: 3px 7px;
+}
+#authots .social i:hover{
+    background: #000;
+    color:#FFF;
+    transition:0.6s;
+    cursor:pointer;
+}
+.card-body:hover{
+    background:#446abd;
+    color:#fff;
+    transition:0.6s;
+}
+#contact-section{
+    background:#F8F9FA;
+}
+.logoPart img{
+    margin-left: 150px;
+    margin-top: 130px;
+}
+#footer-section{
+    background:#252525;
+    color:#fff;
+}
+
+#footer-section .socil-footer i{
+    padding: 10px;
+    font-size: 20px;
+    cursor:pointer;
+    transition:0.6s;
+}
+#footer-section .socil-footer i:hover{
+    background:#fff;
+    color:#000;
+    border-radius:50%;
+    transition:0.6s;
+}
+#footer-section span{
+    border-bottom: 2px solid #777;
+    margin-bottom:10px;
+    text-transform:uppercase;
+}
+
+
+
